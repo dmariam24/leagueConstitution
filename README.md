@@ -1,4 +1,4 @@
-# (League Name Here) Dynasty League Constitution #
+# Emerald City Legends Dynasty League Constitution #
 ## Table of Contents
 
 - [League Governence](#section-i---league-governence)
@@ -26,7 +26,7 @@
 ## __Section I - League Governence__ ##
 
 ### League Commissioner ###
-__Eli Manning__
+__Darwit Mariam__
 > (800) 588-2300
 
 > 3LI@ManningFace.com
